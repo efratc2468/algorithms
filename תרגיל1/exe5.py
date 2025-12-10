@@ -1,4 +1,4 @@
-from random_tuples import create_random_tuples
+from תרגיל1.random_tuples import create_random_tuples
 
 def sort_insertion(a, key):
     n = len(a)
